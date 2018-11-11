@@ -1,1 +1,2 @@
 This is my file
+This bit is only visible in the branch called 'mybranch'
